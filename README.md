@@ -26,3 +26,12 @@ Extended wit Cyrillic characters:
 – SemiBold: notyet
 – Regular: not yet
 
+—
+
+Installation and troubleshooting (this is mostly for usage in print):
+
+Font cache problems: 
+http://www.glyphsapp.com/tutorials/eliminating-font-cache-problems
+
+Testing fonts in Adobe Apps: 
+http://www.glyphsapp.com/tutorials/testing-your-fonts-in-adobe-apps
