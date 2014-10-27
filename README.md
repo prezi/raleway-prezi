@@ -1,7 +1,9 @@
-raleway
+Raleway
 =======
 
 The Prezi Raleway – our branded typeface, upgraded, extended and fitted to our requirements. For more information check README please.
+
+We have only three stíles: Regular, SemiBold and HEavy
 
 Upgraded, extended and fitted – that means:
 – changed name from Raleway to Raleway Prezi (with style names)
