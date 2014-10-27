@@ -28,7 +28,7 @@ Extended wit Cyrillic characters:
 
 —
 
-Installation and troubleshooting (this is mostly for usage in print):
+Installation and troubleshooting (this is mostly for usage in print and its happen after when you download and install the newest version of the font):
 
 Font cache problems: 
 http://www.glyphsapp.com/tutorials/eliminating-font-cache-problems
