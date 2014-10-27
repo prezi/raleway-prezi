@@ -35,3 +35,6 @@ http://www.glyphsapp.com/tutorials/eliminating-font-cache-problems
 
 Testing fonts in Adobe Apps: 
 http://www.glyphsapp.com/tutorials/testing-your-fonts-in-adobe-apps
+
+Ralph Herrmann’s workflow for testing new typeface:
+http://opentype.info/blog/2012/02/18/why-i-switched-from-fontlab-to-glyphs/
