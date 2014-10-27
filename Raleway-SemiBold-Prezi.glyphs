@@ -486,10 +486,10 @@ value = (
 );
 }
 );
-date = "2012-09-07 07:07:54 +0000";
+date = "2014-10-27 16:57:26 +0000";
 designer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida";
 designerURL = "http://pixelspread.com";
-familyName = "RalewayPreziv01";
+familyName = "Raleway Prezi";
 featurePrefixes = (
 {
 automatic = 1;
@@ -500,7 +500,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature subs;\012feature sups;\012feature frac;\012feature ordn;\012feature c2sc;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012";
+code = "feature locl;\012feature subs;\012feature sups;\012feature frac;\012feature ordn;\012feature c2sc;\012feature salt;\012feature ss01;\012feature ss02;\012";
 name = aalt;
 },
 {
@@ -535,12 +535,7 @@ name = c2sc;
 },
 {
 automatic = 1;
-code = "sub c t by c_t;\012sub s t by s_t;\012";
-name = dlig;
-},
-{
-automatic = 1;
-code = "sub f f by f_f.liga;\012sub f f i by f_f_i.liga;\012sub f f l by f_f_l.liga;\012sub f i by f_i.liga;\012sub f l by f_l.liga;\012";
+code = "sub c t by c_t.liga;\012sub f f by f_f.liga;\012sub f f i by f_f_i.liga;\012sub f f l by f_f_l.liga;\012sub f i by f_i.liga;\012sub f l by f_l.liga;\012sub s t by s_t.liga;\012";
 name = liga;
 },
 {
@@ -557,11 +552,6 @@ name = ss01;
 automatic = 1;
 code = "sub W by W.ss02;\012sub w by w.ss02;\012";
 name = ss02;
-},
-{
-automatic = 1;
-code = "sub a by a.ss03;\012";
-name = ss03;
 },
 {
 automatic = 1;
@@ -26137,5 +26127,5 @@ manufacturer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida";
 manufacturerURL = "http://theleagueofmoveabletype.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }

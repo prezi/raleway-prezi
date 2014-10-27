@@ -1,4 +1,11 @@
 {
+classes = (
+{
+automatic = 1;
+code = "A AE AEacute Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eng Eogonek Eth Etilde F G G.alt Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ J Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ndotaccent Ntilde O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde P Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scircumflex T Tbar Tcaron Thorn U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent uni015E uni0162 uni0218 uni021A W.ss02 A-cy Be-cy Ve-cy Ge-cy De-cy Ie-cy Zhe-cy Ze-cy Ii-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Ia-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy I-cy Je-cy Tshe-cy Iu-cy Ustrait-cy";
+name = Uppercase;
+}
+);
 copyright = "It is a display face that features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than it's neo-grotesque inspired default character set.";
 customParameters = (
 {
@@ -479,10 +486,79 @@ value = (
 );
 }
 );
-date = "2012-09-07 07:07:40 +0000";
-designer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida";
+date = "2014-10-27 16:47:26 +0000";
+designer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Viktor Suszter";
 designerURL = "http://pixelspread.com";
-familyName = "Raleway Prezi v01";
+familyName = "Raleway Prezi";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012languagesystem cyrl dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn CAT;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;\012feature subs;\012feature sups;\012feature frac;\012feature ordn;\012feature c2sc;\012feature salt;\012feature ss01;\012feature ss02;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "script latn;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+name = locl;
+},
+{
+automatic = 1;
+code = "sub eight by eightinferior;\012sub five by fiveinferior;\012sub four by fourinferior;\012sub nine by nineinferior;\012sub two by twoinferior;\012sub one by oneinferior;\012sub three by threeinferior;\012sub seven by seveninferior;\012sub six by sixinferior;\012sub zero by zeroinferior;\012";
+name = subs;
+},
+{
+automatic = 1;
+code = "sub eight by eightsuperior;\012sub five by fivesuperior;\012sub four by foursuperior;\012sub nine by ninesuperior;\012sub one by onesuperior;\012sub seven by sevensuperior;\012sub six by sixsuperior;\012sub three by threesuperior;\012sub two by twosuperior;\012sub zero by zerosuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash eight by oneeighth;\012sub one slash four by onequarter;\012sub three slash eight by threeeighths;\012sub one slash two by onehalf;\012sub five slash eight by fiveeighths;\012sub three slash four by threequarters;\012sub seven slash eight by seveneighths;\012sub one slash three by onethird;\012sub two slash three by twothirds;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub A by A.sc;\012sub B by B.sc;\012sub C by C.sc;\012sub D by D.sc;\012sub E by E.sc;\012sub F by F.sc;\012sub G by G.sc;\012sub H by H.sc;\012sub I by I.sc;\012sub J by J.sc;\012sub K by K.sc;\012sub L by L.sc;\012sub M by M.sc;\012sub N by N.sc;\012sub O by O.sc;\012sub P by P.sc;\012sub Q by Q.sc;\012sub R by R.sc;\012sub S by S.sc;\012sub T by T.sc;\012sub U by U.sc;\012sub V by V.sc;\012sub W by W.sc;\012sub X by X.sc;\012sub Y by Y.sc;\012sub Z by Z.sc;\012";
+name = c2sc;
+},
+{
+automatic = 1;
+code = "sub c t by c_t.liga;\012sub f f by f_f.liga;\012sub f f i by f_f_i.liga;\012sub f f l by f_f_l.liga;\012sub f i by f_i.liga;\012sub f l by f_l.liga;\012sub s t by s_t.liga;\012";
+name = liga;
+},
+{
+automatic = 1;
+code = "sub a by a.ss01;\012";
+name = salt;
+},
+{
+automatic = 1;
+code = "sub a by a.ss01;\012";
+name = ss01;
+},
+{
+automatic = 1;
+code = "sub W by W.ss02;\012sub w by w.ss02;\012";
+name = ss02;
+},
+{
+automatic = 1;
+code = "pos @Uppercase <5 0 10 0>;\012";
+name = cpsp;
+}
+);
 fontMaster = (
 {
 alignmentZones = (
@@ -26749,8 +26825,8 @@ Oslashacute = "-2";
 Otilde = "-5";
 Q = "-5";
 a = "-37";
-a.ss01 = "-27";
 a.alt2 = "-37";
+a.ss01 = "-27";
 ae = "-37";
 asterisk = 12;
 c = "-27";
@@ -27120,14 +27196,14 @@ Tbar = "-40";
 V = "-55";
 X = 14;
 quoteright = "-78";
-six.onum = "-11";
 six = "-11";
+six.onum = "-11";
 v = "-25";
 w.ss02 = "-25";
 x = 13;
 y.alt = "-29";
-zero.onum = "-10";
 zero = "-19";
+zero.onum = "-10";
 };
 bar = {
 Idieresis = 11;
@@ -27237,8 +27313,8 @@ asterisk = 8;
 };
 degree = {
 five.onum = "-18";
-four.onum = "-78";
 four = "-40";
+four.onum = "-78";
 nine.onum = "-18";
 zero.onum = "-10";
 };
@@ -27343,6 +27419,10 @@ W = "-17";
 Y = "-23";
 backslash = "-21";
 };
+four = {
+backslash = "-11";
+degree = "-14";
+};
 four.onum = {
 A = 12;
 AE = 28;
@@ -27357,10 +27437,6 @@ degree = "-15";
 minus = "-17";
 periodcentered = "-12";
 plus = "-16";
-};
-four = {
-backslash = "-11";
-degree = "-14";
 };
 fraction = {
 four.onum = "-42";
@@ -27719,6 +27795,11 @@ seven = "-12";
 three = "-15";
 two = "-10";
 };
+nine = {
+backslash = "-10";
+parenright = "-10";
+slash = "-18";
+};
 nine.onum = {
 T = "-26";
 V = "-29";
@@ -27726,11 +27807,6 @@ W = "-30";
 Y = "-40";
 backslash = "-38";
 degree = "-23";
-};
-nine = {
-backslash = "-10";
-parenright = "-10";
-slash = "-18";
 };
 o = {
 AE = "-24";
@@ -27749,6 +27825,11 @@ lslash = 8;
 oe = {
 lslash = 12;
 };
+one = {
+backslash = "-21";
+degree = "-23";
+numbersign = 12;
+};
 one.onum = {
 A = 16;
 AE = 32;
@@ -27763,11 +27844,6 @@ minus = "-18";
 numbersign = 9;
 periodcentered = "-10";
 plus = "-16";
-};
-one = {
-backslash = "-21";
-degree = "-23";
-numbersign = 12;
 };
 oslash = {
 asterisk = "-8";
@@ -27797,20 +27873,20 @@ j = 30;
 jcircumflex = 30;
 oslash = 1;
 oslashacute = 1;
-six.onum = "-10";
 six = "-10";
+six.onum = "-10";
 v = "-12";
 w.ss02 = "-12";
 x = 15;
 y.alt = "-12";
-zero.onum = "-15";
 zero = "-15";
+zero.onum = "-15";
 };
 periodcentered = {
 l = "-32";
 seven = "-15";
-three.onum = "-11";
 three = "-13";
+three.onum = "-11";
 };
 plus = {
 four.onum = "-15";
@@ -27939,21 +28015,6 @@ semicolon = {
 j = 28;
 jcircumflex = 28;
 };
-seven.onum = {
-A = "-33";
-AE = "-47";
-J = "-45";
-T = 28;
-cent = "-15";
-degree = 5;
-five.onum = "-16";
-four.onum = "-42";
-hyphen = "-22";
-minus = "-11";
-periodcentered = "-13";
-seven.onum = 11;
-slash = "-51";
-};
 seven = {
 backslash = 22;
 braceright = 5;
@@ -27976,6 +28037,21 @@ slash = "-75";
 three = 5;
 zero = "-14";
 };
+seven.onum = {
+A = "-33";
+AE = "-47";
+J = "-45";
+T = 28;
+cent = "-15";
+degree = 5;
+five.onum = "-16";
+four.onum = "-42";
+hyphen = "-22";
+minus = "-11";
+periodcentered = "-13";
+seven.onum = 11;
+slash = "-51";
+};
 sevensuperior = {
 fraction = "-48";
 };
@@ -27990,14 +28066,14 @@ three.onum = "-12";
 slash = {
 V = 21;
 X = 24;
-eight.onum = "-12";
 eight = "-12";
+eight.onum = "-12";
 eth = "-32";
 f = "-18";
-five.onum = "-39";
 five = "-12";
-four.onum = "-77";
+five.onum = "-39";
 four = "-55";
+four.onum = "-77";
 ibreve = 22;
 idieresis = 57;
 igrave = 8;
@@ -28005,8 +28081,8 @@ imacron = 18;
 itilde = 22;
 nine.onum = "-33";
 one.onum = "-24";
-six.onum = "-17";
 six = "-17";
+six.onum = "-17";
 slash = "-285";
 three.onum = "-25";
 two.onum = "-24";
@@ -28014,8 +28090,8 @@ v = "-15";
 w.ss02 = "-15";
 x = "-14";
 y.alt = "-16";
-zero.onum = "-42";
 zero = "-23";
+zero.onum = "-42";
 };
 space = {
 Lslash = "-11";
@@ -28199,6 +28275,11 @@ W = "-36";
 apostrophe = "-20";
 schwa = "-6";
 };
+zero = {
+backslash = "-20";
+parenright = "-15";
+slash = "-22";
+};
 zero.onum = {
 A = "-14";
 AE = "-19";
@@ -28213,16 +28294,11 @@ degree = "-10";
 parenright = "-15";
 slash = "-12";
 };
-zero = {
-backslash = "-20";
-parenright = "-15";
-slash = "-22";
 };
 };
-};
-manufacturer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida";
+manufacturer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Viktor Suszter";
 manufacturerURL = "http://theleagueofmoveabletype.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }
