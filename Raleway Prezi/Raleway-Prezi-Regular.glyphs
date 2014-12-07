@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-/w.sc
-);
 classes = (
 {
 automatic = 1;
@@ -2143,7 +2140,7 @@ unicode = 0039;
 {
 color = 4;
 glyphname = colon;
-lastChange = "2014-11-16 16:30:29 +0000";
+lastChange = "2014-12-07 20:16:23 +0000";
 layers = (
 {
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -9419,7 +9416,7 @@ unicode = 010C;
 {
 color = 4;
 glyphname = caron;
-lastChange = "2014-11-19 17:16:29 +0000";
+lastChange = "2014-12-07 20:24:50 +0000";
 layers = (
 {
 anchors = (
@@ -9435,9 +9432,9 @@ paths = (
 closed = 1;
 nodes = (
 "316 730 LINE",
-"242 730 LINE",
-"166 634 LINE",
-"89 730 LINE",
+"238 730 LINE",
+"166 628 LINE",
+"93 730 LINE",
 "15 730 LINE",
 "136 596 LINE",
 "195 596 LINE"
