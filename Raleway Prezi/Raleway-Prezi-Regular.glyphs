@@ -1,10 +1,4 @@
 {
-DisplayStrings = (
-"\U00E1",
-/commaaccent,
-",",
-"Bar,"
-);
 classes = (
 {
 automatic = 1;
@@ -748,12 +742,12 @@ name = ordn;
 },
 {
 automatic = 1;
-code = "sub S by s.sc;\012sub A by a.sc;\012sub B by b.sc;\012sub C by c.sc;\012sub D by d.sc;\012sub E by e.sc;\012sub F by f.sc;\012sub G by g.sc;\012sub H by h.sc;\012sub I by i.sc;\012sub J by j.sc;\012sub K by k.sc;\012sub L by l.sc;\012sub M by m.sc;\012sub N by n.sc;\012sub O by o.sc;\012sub P by p.sc;\012sub Q by q.sc;\012sub R by r.sc;\012sub T by t.sc;\012sub U by u.sc;\012sub V by v.sc;\012sub W by w.sc;\012sub X by x.sc;\012sub Y by y.sc;\012sub Z by z.sc;\012sub Agrave by agrave.sc;\012sub Aacute by aacute.sc;\012sub Acircumflex by acircumflex.sc;\012sub Atilde by atilde.sc;\012sub Adieresis by adieresis.sc;\012sub Aring by aring.sc;\012sub AE by ae.sc;\012sub Ccedilla by ccedilla.sc;\012sub Egrave by egrave.sc;\012sub Eacute by eacute.sc;\012sub Ecircumflex by ecircumflex.sc;\012sub Edieresis by edieresis.sc;\012sub Igrave by igrave.sc;\012sub Iacute by iacute.sc;\012sub Icircumflex by icircumflex.sc;\012sub Idieresis by idieresis.sc;\012sub Ntilde by ntilde.sc;\012sub Ograve by ograve.sc;\012sub Oacute by oacute.sc;\012sub Ocircumflex by ocircumflex.sc;\012sub Otilde by otilde.sc;\012sub Odieresis by odieresis.sc;\012sub Oslash by oslash.sc;\012sub Ugrave by ugrave.sc;\012sub Uacute by uacute.sc;\012sub Ucircumflex by ucircumflex.sc;\012sub Udieresis by udieresis.sc;\012sub Yacute by yacute.sc;\012sub Amacron by amacron.sc;\012sub Abreve by abreve.sc;\012sub Aogonek by aogonek.sc;\012sub Cacute by cacute.sc;\012sub Ccircumflex by ccircumflex.sc;\012sub Cdotaccent by cdotaccent.sc;\012sub Ccaron by ccaron.sc;\012sub Dcaron by dcaron.sc;\012sub Dcroat by dcroat.sc;\012sub Emacron by emacron.sc;\012sub Ebreve by ebreve.sc;\012sub Edotaccent by edotaccent.sc;\012sub Eogonek by eogonek.sc;\012sub Ecaron by ecaron.sc;\012sub Gcircumflex by gcircumflex.sc;\012sub Gbreve by gbreve.sc;\012sub Gdotaccent by gdotaccent.sc;\012sub Gcommaaccent by gcommaaccent.sc;\012sub Hcircumflex by hcircumflex.sc;\012sub Itilde by itilde.sc;\012sub Imacron by imacron.sc;\012sub Iogonek by iogonek.sc;\012sub Idotaccent by idotaccent.sc;\012sub Jcircumflex by jcircumflex.sc;\012sub Kcommaaccent by kcommaaccent.sc;\012sub Lacute by lacute.sc;\012sub Lcommaaccent by lcommaaccent.sc;\012sub Lcaron by lcaron.sc;\012sub Lslash by lslash.sc;\012sub Nacute by nacute.sc;\012sub Ncommaaccent by ncommaaccent.sc;\012sub Ncaron by ncaron.sc;\012sub Omacron by omacron.sc;\012sub Obreve by obreve.sc;\012sub Ohungarumlaut by ohungarumlaut.sc;\012sub Racute by racute.sc;\012sub Rcaron by rcaron.sc;\012sub Sacute by sacute.sc;\012sub Scircumflex by scircumflex.sc;\012sub Scaron by scaron.sc;\012sub Tcaron by tcaron.sc;\012sub Utilde by utilde.sc;\012sub Umacron by umacron.sc;\012sub Ubreve by ubreve.sc;\012sub Uring by uring.sc;\012sub Uhungarumlaut by uhungarumlaut.sc;\012sub Uogonek by uogonek.sc;\012sub Wcircumflex by wcircumflex.sc;\012sub Ycircumflex by ycircumflex.sc;\012sub Ydieresis by ydieresis.sc;\012sub Zacute by zacute.sc;\012sub Zdotaccent by zdotaccent.sc;\012sub Zcaron by zcaron.sc;\012sub Gacute by gacute.sc;\012";
+code = "sub S by s.sc;\012sub A by a.sc;\012sub B by b.sc;\012sub C by c.sc;\012sub D by d.sc;\012sub E by e.sc;\012sub F by f.sc;\012sub G by g.sc;\012sub H by h.sc;\012sub I by i.sc;\012sub J by j.sc;\012sub K by k.sc;\012sub L by l.sc;\012sub M by m.sc;\012sub N by n.sc;\012sub O by o.sc;\012sub P by p.sc;\012sub Q by q.sc;\012sub R by r.sc;\012sub T by t.sc;\012sub U by u.sc;\012sub V by v.sc;\012sub W by w.sc;\012sub X by x.sc;\012sub Y by y.sc;\012sub Z by z.sc;\012sub Agrave by agrave.sc;\012sub Aacute by aacute.sc;\012sub Acircumflex by acircumflex.sc;\012sub Atilde by atilde.sc;\012sub Adieresis by adieresis.sc;\012sub Aring by aring.sc;\012sub AE by ae.sc;\012sub Ccedilla by ccedilla.sc;\012sub Egrave by egrave.sc;\012sub Eacute by eacute.sc;\012sub Ecircumflex by ecircumflex.sc;\012sub Edieresis by edieresis.sc;\012sub Igrave by igrave.sc;\012sub Iacute by iacute.sc;\012sub Icircumflex by icircumflex.sc;\012sub Idieresis by idieresis.sc;\012sub Ntilde by ntilde.sc;\012sub Ograve by ograve.sc;\012sub Oacute by oacute.sc;\012sub Ocircumflex by ocircumflex.sc;\012sub Otilde by otilde.sc;\012sub Odieresis by odieresis.sc;\012sub Oslash by oslash.sc;\012sub Ugrave by ugrave.sc;\012sub Uacute by uacute.sc;\012sub Ucircumflex by ucircumflex.sc;\012sub Udieresis by udieresis.sc;\012sub Yacute by yacute.sc;\012sub Amacron by amacron.sc;\012sub Abreve by abreve.sc;\012sub Aogonek by aogonek.sc;\012sub Cacute by cacute.sc;\012sub Ccircumflex by ccircumflex.sc;\012sub Cdotaccent by cdotaccent.sc;\012sub Ccaron by ccaron.sc;\012sub Dcaron by dcaron.sc;\012sub Dcroat by dcroat.sc;\012sub Emacron by emacron.sc;\012sub Ebreve by ebreve.sc;\012sub Edotaccent by edotaccent.sc;\012sub Eogonek by eogonek.sc;\012sub Ecaron by ecaron.sc;\012sub Gcircumflex by gcircumflex.sc;\012sub Gbreve by gbreve.sc;\012sub Gdotaccent by gdotaccent.sc;\012sub Gcommaaccent by gcommaaccent.sc;\012sub Hcircumflex by hcircumflex.sc;\012sub Itilde by itilde.sc;\012sub Imacron by imacron.sc;\012sub Iogonek by iogonek.sc;\012sub Idotaccent by idotaccent.sc;\012sub Jcircumflex by jcircumflex.sc;\012sub Kcommaaccent by kcommaaccent.sc;\012sub Lacute by lacute.sc;\012sub Lcommaaccent by lcommaaccent.sc;\012sub Lcaron by lcaron.sc;\012sub Ldot by ldot.sc;\012sub Lslash by lslash.sc;\012sub Nacute by nacute.sc;\012sub Ncommaaccent by ncommaaccent.sc;\012sub Ncaron by ncaron.sc;\012sub Omacron by omacron.sc;\012sub Obreve by obreve.sc;\012sub Ohungarumlaut by ohungarumlaut.sc;\012sub Racute by racute.sc;\012sub Rcaron by rcaron.sc;\012sub Sacute by sacute.sc;\012sub Scircumflex by scircumflex.sc;\012sub Scaron by scaron.sc;\012sub Tcaron by tcaron.sc;\012sub Utilde by utilde.sc;\012sub Umacron by umacron.sc;\012sub Ubreve by ubreve.sc;\012sub Uring by uring.sc;\012sub Uhungarumlaut by uhungarumlaut.sc;\012sub Uogonek by uogonek.sc;\012sub Wcircumflex by wcircumflex.sc;\012sub Ycircumflex by ycircumflex.sc;\012sub Ydieresis by ydieresis.sc;\012sub Zacute by zacute.sc;\012sub Zdotaccent by zdotaccent.sc;\012sub Zcaron by zcaron.sc;\012sub Gacute by gacute.sc;\012";
 name = c2sc;
 },
 {
 automatic = 1;
-code = "sub a by a.sc;\012sub aacute by aacute.sc;\012sub abreve by abreve.sc;\012sub acircumflex by acircumflex.sc;\012sub adieresis by adieresis.sc;\012sub agrave by agrave.sc;\012sub amacron by amacron.sc;\012sub aogonek by aogonek.sc;\012sub aring by aring.sc;\012sub atilde by atilde.sc;\012sub ae by ae.sc;\012sub b by b.sc;\012sub c by c.sc;\012sub cacute by cacute.sc;\012sub ccaron by ccaron.sc;\012sub ccedilla by ccedilla.sc;\012sub ccircumflex by ccircumflex.sc;\012sub cdotaccent by cdotaccent.sc;\012sub d by d.sc;\012sub dcaron by dcaron.sc;\012sub dcroat by dcroat.sc;\012sub e by e.sc;\012sub eacute by eacute.sc;\012sub ebreve by ebreve.sc;\012sub ecaron by ecaron.sc;\012sub ecircumflex by ecircumflex.sc;\012sub edieresis by edieresis.sc;\012sub edotaccent by edotaccent.sc;\012sub egrave by egrave.sc;\012sub emacron by emacron.sc;\012sub eogonek by eogonek.sc;\012sub f by f.sc;\012sub g by g.sc;\012sub gacute by gacute.sc;\012sub gbreve by gbreve.sc;\012sub gcircumflex by gcircumflex.sc;\012sub gcommaaccent by gcommaaccent.sc;\012sub gdotaccent by gdotaccent.sc;\012sub h by h.sc;\012sub hcircumflex by hcircumflex.sc;\012sub i by i.sc;\012sub iacute by iacute.sc;\012sub icircumflex by icircumflex.sc;\012sub idieresis by idieresis.sc;\012sub igrave by igrave.sc;\012sub imacron by imacron.sc;\012sub iogonek by iogonek.sc;\012sub itilde by itilde.sc;\012sub j by j.sc;\012sub jcircumflex by jcircumflex.sc;\012sub k by k.sc;\012sub kcommaaccent by kcommaaccent.sc;\012sub l by l.sc;\012sub lacute by lacute.sc;\012sub lcaron by lcaron.sc;\012sub lcommaaccent by lcommaaccent.sc;\012sub lslash by lslash.sc;\012sub m by m.sc;\012sub n by n.sc;\012sub nacute by nacute.sc;\012sub ncaron by ncaron.sc;\012sub ncommaaccent by ncommaaccent.sc;\012sub ntilde by ntilde.sc;\012sub o by o.sc;\012sub oacute by oacute.sc;\012sub obreve by obreve.sc;\012sub ocircumflex by ocircumflex.sc;\012sub odieresis by odieresis.sc;\012sub ograve by ograve.sc;\012sub ohungarumlaut by ohungarumlaut.sc;\012sub omacron by omacron.sc;\012sub oslash by oslash.sc;\012sub otilde by otilde.sc;\012sub p by p.sc;\012sub q by q.sc;\012sub r by r.sc;\012sub racute by racute.sc;\012sub rcaron by rcaron.sc;\012sub s by s.sc;\012sub sacute by sacute.sc;\012sub scaron by scaron.sc;\012sub scircumflex by scircumflex.sc;\012sub t by t.sc;\012sub tcaron by tcaron.sc;\012sub u by u.sc;\012sub uacute by uacute.sc;\012sub ubreve by ubreve.sc;\012sub ucircumflex by ucircumflex.sc;\012sub udieresis by udieresis.sc;\012sub ugrave by ugrave.sc;\012sub uhungarumlaut by uhungarumlaut.sc;\012sub umacron by umacron.sc;\012sub uogonek by uogonek.sc;\012sub uring by uring.sc;\012sub utilde by utilde.sc;\012sub v by v.sc;\012sub w by w.sc;\012sub wcircumflex by wcircumflex.sc;\012sub x by x.sc;\012sub y by y.sc;\012sub yacute by yacute.sc;\012sub ycircumflex by ycircumflex.sc;\012sub ydieresis by ydieresis.sc;\012sub z by z.sc;\012sub zacute by zacute.sc;\012sub zcaron by zcaron.sc;\012sub zdotaccent by zdotaccent.sc;\012";
+code = "sub a by a.sc;\012sub aacute by aacute.sc;\012sub abreve by abreve.sc;\012sub acircumflex by acircumflex.sc;\012sub adieresis by adieresis.sc;\012sub agrave by agrave.sc;\012sub amacron by amacron.sc;\012sub aogonek by aogonek.sc;\012sub aring by aring.sc;\012sub atilde by atilde.sc;\012sub ae by ae.sc;\012sub b by b.sc;\012sub c by c.sc;\012sub cacute by cacute.sc;\012sub ccaron by ccaron.sc;\012sub ccedilla by ccedilla.sc;\012sub ccircumflex by ccircumflex.sc;\012sub cdotaccent by cdotaccent.sc;\012sub d by d.sc;\012sub dcaron by dcaron.sc;\012sub dcroat by dcroat.sc;\012sub e by e.sc;\012sub eacute by eacute.sc;\012sub ebreve by ebreve.sc;\012sub ecaron by ecaron.sc;\012sub ecircumflex by ecircumflex.sc;\012sub edieresis by edieresis.sc;\012sub edotaccent by edotaccent.sc;\012sub egrave by egrave.sc;\012sub emacron by emacron.sc;\012sub eogonek by eogonek.sc;\012sub f by f.sc;\012sub g by g.sc;\012sub gacute by gacute.sc;\012sub gbreve by gbreve.sc;\012sub gcircumflex by gcircumflex.sc;\012sub gcommaaccent by gcommaaccent.sc;\012sub gdotaccent by gdotaccent.sc;\012sub h by h.sc;\012sub hcircumflex by hcircumflex.sc;\012sub i by i.sc;\012sub iacute by iacute.sc;\012sub icircumflex by icircumflex.sc;\012sub idieresis by idieresis.sc;\012sub igrave by igrave.sc;\012sub imacron by imacron.sc;\012sub iogonek by iogonek.sc;\012sub itilde by itilde.sc;\012sub j by j.sc;\012sub jcircumflex by jcircumflex.sc;\012sub k by k.sc;\012sub kcommaaccent by kcommaaccent.sc;\012sub l by l.sc;\012sub lacute by lacute.sc;\012sub lcaron by lcaron.sc;\012sub lcommaaccent by lcommaaccent.sc;\012sub ldot by ldot.sc;\012sub lslash by lslash.sc;\012sub m by m.sc;\012sub n by n.sc;\012sub nacute by nacute.sc;\012sub ncaron by ncaron.sc;\012sub ncommaaccent by ncommaaccent.sc;\012sub ntilde by ntilde.sc;\012sub o by o.sc;\012sub oacute by oacute.sc;\012sub obreve by obreve.sc;\012sub ocircumflex by ocircumflex.sc;\012sub odieresis by odieresis.sc;\012sub ograve by ograve.sc;\012sub ohungarumlaut by ohungarumlaut.sc;\012sub omacron by omacron.sc;\012sub oslash by oslash.sc;\012sub otilde by otilde.sc;\012sub p by p.sc;\012sub q by q.sc;\012sub r by r.sc;\012sub racute by racute.sc;\012sub rcaron by rcaron.sc;\012sub s by s.sc;\012sub sacute by sacute.sc;\012sub scaron by scaron.sc;\012sub scircumflex by scircumflex.sc;\012sub t by t.sc;\012sub tcaron by tcaron.sc;\012sub u by u.sc;\012sub uacute by uacute.sc;\012sub ubreve by ubreve.sc;\012sub ucircumflex by ucircumflex.sc;\012sub udieresis by udieresis.sc;\012sub ugrave by ugrave.sc;\012sub uhungarumlaut by uhungarumlaut.sc;\012sub umacron by umacron.sc;\012sub uogonek by uogonek.sc;\012sub uring by uring.sc;\012sub utilde by utilde.sc;\012sub v by v.sc;\012sub w by w.sc;\012sub wcircumflex by wcircumflex.sc;\012sub x by x.sc;\012sub y by y.sc;\012sub yacute by yacute.sc;\012sub ycircumflex by ycircumflex.sc;\012sub ydieresis by ydieresis.sc;\012sub z by z.sc;\012sub zacute by zacute.sc;\012sub zcaron by zcaron.sc;\012sub zdotaccent by zdotaccent.sc;\012";
 name = smcp;
 },
 {
@@ -4000,8 +3994,19 @@ unicode = 0067;
 },
 {
 glyphname = h;
+lastChange = "2014-12-09 10:29:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = center;
+position = "{292, 261}";
+},
+{
+name = top;
+position = "{303, 710}";
+}
+);
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
 name = Regular;
 paths = (
@@ -6824,9 +6829,15 @@ unicode = 00C2;
 {
 color = 4;
 glyphname = circumflex;
-lastChange = "2014-11-17 15:11:02 +0000";
+lastChange = "2014-12-09 10:28:45 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{166, 521}";
+}
+);
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
 name = Regular;
 paths = (
@@ -10540,17 +10551,17 @@ unicode = 0124;
 {
 color = 4;
 glyphname = hcircumflex;
-lastChange = "2014-11-18 13:31:37 +0000";
+lastChange = "2014-12-09 10:29:21 +0000";
 layers = (
 {
 components = (
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 165, 0}";
-},
-{
 name = h;
 transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = circumflex;
+transform = "{1, 0, 0, 1, 137, 189}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -18590,7 +18601,7 @@ unicode = 2019;
 {
 color = 4;
 glyphname = quotesinglbase;
-lastChange = "2014-12-08 11:30:20 +0000";
+lastChange = "2014-12-09 14:08:23 +0000";
 layers = (
 {
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -28237,7 +28248,7 @@ width = 586;
 },
 {
 glyphname = acircumflex.sc;
-lastChange = "2014-12-03 10:26:51 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -28247,7 +28258,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 120, 0}";
+transform = "{1, 0, 0, 1, 127, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -28608,7 +28619,7 @@ width = 595;
 },
 {
 glyphname = ccircumflex.sc;
-lastChange = "2014-12-03 10:26:57 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -28618,7 +28629,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 143, 0}";
+transform = "{1, 0, 0, 1, 163, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -28883,7 +28894,7 @@ width = 531;
 },
 {
 glyphname = ecircumflex.sc;
-lastChange = "2014-12-03 10:27:07 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -28893,7 +28904,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 112, 0}";
+transform = "{1, 0, 0, 1, 116, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -29361,7 +29372,7 @@ width = 230;
 },
 {
 glyphname = icircumflex.sc;
-lastChange = "2014-12-03 10:27:37 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -29371,7 +29382,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, -52, 0}";
+transform = "{1, 0, 0, 1, -52, 3}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -29507,8 +29518,9 @@ width = 230;
 );
 },
 {
+color = 4;
 glyphname = j.sc;
-lastChange = "2014-11-19 16:21:29 +0000";
+lastChange = "2014-12-11 11:03:10 +0000";
 layers = (
 {
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -29517,22 +29529,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"21 25 LINE",
-"56 3 OFFCURVE",
-"99 -8 OFFCURVE",
-"151 -8 CURVE SMOOTH",
-"327 -8 OFFCURVE",
-"348 102 OFFCURVE",
-"348 269 CURVE SMOOTH",
-"348 547 LINE",
-"286 547 LINE",
-"286 269 LINE SMOOTH",
-"286 126 OFFCURVE",
-"271 48 OFFCURVE",
-"151 48 CURVE SMOOTH",
-"103 48 OFFCURVE",
-"62 62 OFFCURVE",
-"38 76 CURVE"
+"108 71 OFFCURVE",
+"148 40 OFFCURVE",
+"196 40 CURVE SMOOTH",
+"260 40 OFFCURVE",
+"319 76 OFFCURVE",
+"319 169 CURVE",
+"319 546 LINE",
+"373 546 LINE",
+"373 165 LINE",
+"376 45 OFFCURVE",
+"290 -11 OFFCURVE",
+"196 -11 CURVE SMOOTH",
+"129 -11 OFFCURVE",
+"69 30 OFFCURVE",
+"43 90 CURVE",
+"91 113 LINE"
 );
 }
 );
@@ -29544,7 +29556,7 @@ rightKerningGroup = J.sc;
 },
 {
 glyphname = jcircumflex.sc;
-lastChange = "2014-12-03 10:27:45 +0000";
+lastChange = "2014-12-11 11:03:23 +0000";
 layers = (
 {
 components = (
@@ -29554,7 +29566,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 148, 0}";
+transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -29718,6 +29730,28 @@ transform = "{1, 0, 0, 1, 0, 0}";
 {
 name = commaaccent;
 transform = "{1, 0, 0, 1, 190, 0}";
+}
+);
+layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
+name = Regular;
+width = 495;
+}
+);
+},
+{
+color = 4;
+glyphname = ldot.sc;
+lastChange = "2014-12-09 13:40:31 +0000";
+layers = (
+{
+components = (
+{
+name = l.sc;
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = periodcentered;
+transform = "{1, 0, 0, 1, 198, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -30052,7 +30086,7 @@ width = 649;
 },
 {
 glyphname = ocircumflex.sc;
-lastChange = "2014-12-03 10:27:59 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -30062,7 +30096,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 149, 0}";
+transform = "{1, 0, 0, 1, 159, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -30565,7 +30599,7 @@ width = 525;
 },
 {
 glyphname = scircumflex.sc;
-lastChange = "2014-12-03 10:29:56 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -30575,7 +30609,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 98, 0}";
+transform = "{1, 0, 0, 1, 97, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -30802,7 +30836,7 @@ width = 652;
 },
 {
 glyphname = ucircumflex.sc;
-lastChange = "2014-12-03 10:28:16 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -30812,7 +30846,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 158, 0}";
+transform = "{1, 0, 0, 1, 160, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
@@ -31140,7 +31174,7 @@ width = 562;
 },
 {
 glyphname = ycircumflex.sc;
-lastChange = "2014-12-03 10:30:06 +0000";
+lastChange = "2014-12-09 11:48:20 +0000";
 layers = (
 {
 components = (
@@ -31150,7 +31184,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 111, 0}";
+transform = "{1, 0, 0, 1, 115, 0}";
 }
 );
 layerId = "1FDD38BC-4CDE-4118-9AAB-E6BB464D5960";
