@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"\U00F8"
-);
 classes = (
 {
 automatic = 1;
@@ -9835,9 +9832,9 @@ rightKerningGroup = C;
 unicode = 010C;
 },
 {
-color = 4;
+color = 5;
 glyphname = caron;
-lastChange = "2014-12-07 20:26:03 +0000";
+lastChange = "2014-12-22 10:09:39 +0000";
 layers = (
 {
 anchors = (
@@ -9898,13 +9895,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"252 730 LINE",
-"177 631 LINE",
-"102 730 LINE",
-"-13 730 LINE",
-"133 596 LINE",
-"221 596 LINE",
-"367 730 LINE"
+"233 730 LINE",
+"178 639 LINE",
+"123 730 LINE",
+"-12 730 LINE",
+"134 596 LINE",
+"222 596 LINE",
+"368 730 LINE"
 );
 }
 );
@@ -10855,6 +10852,7 @@ unicode = F6C3;
 {
 color = 4;
 glyphname = gcommaaccent;
+lastChange = "2014-12-25 16:18:29 +0000";
 layers = (
 {
 components = (
@@ -12081,7 +12079,7 @@ unicode = 0149;
 {
 color = 4;
 glyphname = apostrophe;
-lastChange = "2014-12-08 10:17:58 +0000";
+lastChange = "2014-12-22 11:24:56 +0000";
 layers = (
 {
 layerId = "643E1A31-2BD5-4D48-BA91-7A3195B2D7C3";
@@ -12090,10 +12088,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"90 565 LINE",
+"100 565 LINE",
 "33 565 LINE",
 "81 730 LINE",
-"158 730 LINE"
+"168 730 LINE"
 );
 }
 );
@@ -18119,9 +18117,9 @@ rightKerningGroup = quoteright;
 unicode = 201D;
 },
 {
-color = 4;
+color = 5;
 glyphname = quotedblbase;
-lastChange = "2014-12-08 11:29:38 +0000";
+lastChange = "2014-12-22 11:34:07 +0000";
 layers = (
 {
 layerId = "643E1A31-2BD5-4D48-BA91-7A3195B2D7C3";
@@ -18130,19 +18128,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"269 -123 LINE",
-"189 -123 LINE",
-"256 112 LINE",
-"365 112 LINE"
+"283 -131 LINE",
+"199 -131 LINE",
+"272 125 LINE",
+"385 125 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"89 -123 LINE",
-"9 -123 LINE",
-"76 112 LINE",
-"185 112 LINE"
+"93 -131 LINE",
+"9 -131 LINE",
+"82 125 LINE",
+"195 125 LINE"
 );
 }
 );
@@ -29541,9 +29539,9 @@ width = 549;
 );
 },
 {
-color = 4;
+color = 6;
 glyphname = q.sc;
-lastChange = "2014-12-08 14:21:41 +0000";
+lastChange = "2014-12-26 12:23:09 +0000";
 layers = (
 {
 layerId = "643E1A31-2BD5-4D48-BA91-7A3195B2D7C3";
