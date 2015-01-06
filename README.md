@@ -1,4 +1,4 @@
-Font files mostly for design and web 
+Font files for design and web 
 =============
 raleway-prezi
 
