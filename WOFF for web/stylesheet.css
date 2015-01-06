@@ -3,42 +3,13 @@
 
 
 @font-face {
-    font-family: 'raleway_prezimedium';
-    src: url('ralewayprezi-medium-v01-webfont.eot');
-    src: url('ralewayprezi-medium-v01-webfont.eot?#iefix') format('embedded-opentype'),
-         url('ralewayprezi-medium-v01-webfont.woff2') format('woff2'),
-         url('ralewayprezi-medium-v01-webfont.woff') format('woff'),
-         url('ralewayprezi-medium-v01-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'raleway_prezibold';
-    src: url('ralewayprezi-bold-v01-webfont.eot');
-    src: url('ralewayprezi-bold-v01-webfont.eot?#iefix') format('embedded-opentype'),
-         url('ralewayprezi-bold-v01-webfont.woff2') format('woff2'),
-         url('ralewayprezi-bold-v01-webfont.woff') format('woff'),
-         url('ralewayprezi-bold-v01-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'raleway_preziblack';
-    src: url('ralewayprezi-black-v01-webfont.eot');
-    src: url('ralewayprezi-black-v01-webfont.eot?#iefix') format('embedded-opentype'),
-         url('ralewayprezi-black-v01-webfont.woff2') format('woff2'),
-         url('ralewayprezi-black-v01-webfont.woff') format('woff'),
-         url('ralewayprezi-black-v01-webfont.ttf') format('truetype');
+    font-family: 'raleway_preziregular';
+    src: url('ralewayprezi-regular-v01-webfont.eot');
+    src: url('ralewayprezi-regular-v01-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ralewayprezi-regular-v01-webfont.woff2') format('woff2'),
+         url('ralewayprezi-regular-v01-webfont.woff') format('woff'),
+         url('ralewayprezi-regular-v01-webfont.ttf') format('truetype'),
+         url('ralewayprezi-regular-v01-webfont.svg#raleway_preziregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -53,7 +24,8 @@
     src: url('ralewayprezi-semibold-v01-webfont.eot?#iefix') format('embedded-opentype'),
          url('ralewayprezi-semibold-v01-webfont.woff2') format('woff2'),
          url('ralewayprezi-semibold-v01-webfont.woff') format('woff'),
-         url('ralewayprezi-semibold-v01-webfont.ttf') format('truetype');
+         url('ralewayprezi-semibold-v01-webfont.ttf') format('truetype'),
+         url('ralewayprezi-semibold-v01-webfont.svg#raleway_prezisemibold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -63,12 +35,45 @@
 
 
 @font-face {
-    font-family: 'raleway_preziregular';
-    src: url('ralewayprezi-regular-v01-webfont.eot');
-    src: url('ralewayprezi-regular-v01-webfont.eot?#iefix') format('embedded-opentype'),
-         url('ralewayprezi-regular-v01-webfont.woff2') format('woff2'),
-         url('ralewayprezi-regular-v01-webfont.woff') format('woff'),
-         url('ralewayprezi-regular-v01-webfont.ttf') format('truetype');
+    font-family: 'raleway_prezimedium';
+    src: url('ralewayprezi-medium-v01-webfont.eot');
+    src: url('ralewayprezi-medium-v01-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ralewayprezi-medium-v01-webfont.woff2') format('woff2'),
+         url('ralewayprezi-medium-v01-webfont.woff') format('woff'),
+         url('ralewayprezi-medium-v01-webfont.ttf') format('truetype'),
+         url('ralewayprezi-medium-v01-webfont.svg#raleway_prezimedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'raleway_preziblack';
+    src: url('ralewayprezi-black-v01-webfont.eot');
+    src: url('ralewayprezi-black-v01-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ralewayprezi-black-v01-webfont.woff2') format('woff2'),
+         url('ralewayprezi-black-v01-webfont.woff') format('woff'),
+         url('ralewayprezi-black-v01-webfont.ttf') format('truetype'),
+         url('ralewayprezi-black-v01-webfont.svg#raleway_preziblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'raleway_prezibold';
+    src: url('ralewayprezi-bold-v01-webfont.eot');
+    src: url('ralewayprezi-bold-v01-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ralewayprezi-bold-v01-webfont.woff2') format('woff2'),
+         url('ralewayprezi-bold-v01-webfont.woff') format('woff'),
+         url('ralewayprezi-bold-v01-webfont.ttf') format('truetype'),
+         url('ralewayprezi-bold-v01-webfont.svg#raleway_prezibold') format('svg');
     font-weight: normal;
     font-style: normal;
 
