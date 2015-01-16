@@ -15,6 +15,11 @@ Thats all. Thx!
 
 ---
 
+Original Font Source
+http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
+
+---
+
 More info about troubleshooting (this is mostly for usage in print and its happen after when you download and install the newest version of the font):
 
 Font cache problems: 
