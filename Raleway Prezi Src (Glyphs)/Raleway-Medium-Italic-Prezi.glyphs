@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/acutecomb.case \U00C1"
+);
 classes = (
 {
 code = "L' Lacute Lcaron Lcommaaccent Ldot Lslash";
@@ -4896,6 +4899,7 @@ width = 1024;
 },
 {
 glyphname = a;
+lastChange = "2015-11-01 09:00:57 +0000";
 layers = (
 {
 anchors = (
@@ -4905,7 +4909,7 @@ position = "{417, 7}";
 },
 {
 name = top;
-position = "{263, 522}";
+position = "{311, 522}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -4973,7 +4977,7 @@ unicode = 0061;
 },
 {
 glyphname = aacute;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:57 +0000";
 layers = (
 {
 components = (
@@ -4982,7 +4986,7 @@ name = a;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 172, 0}";
+transform = "{1, 0, 0, 1, 220, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -4994,7 +4998,7 @@ unicode = 00E1;
 },
 {
 glyphname = abreve;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5003,7 +5007,7 @@ name = a;
 },
 {
 name = breve;
-transform = "{1, 0, 0, 1, 115, 0}";
+transform = "{1, 0, 0, 1, 163, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5015,7 +5019,7 @@ unicode = 0103;
 },
 {
 glyphname = acircumflex;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5024,7 +5028,7 @@ name = a;
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 92, 0}";
+transform = "{1, 0, 0, 1, 140, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5036,7 +5040,7 @@ unicode = 00E2;
 },
 {
 glyphname = adblgrave;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5045,7 +5049,7 @@ name = a;
 },
 {
 name = uni030F;
-transform = "{1, 0, 0, 1, 91, 1}";
+transform = "{1, 0, 0, 1, 139, 1}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5057,7 +5061,7 @@ unicode = 0201;
 },
 {
 glyphname = adieresis;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5066,7 +5070,7 @@ name = a;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 93, 0}";
+transform = "{1, 0, 0, 1, 141, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5078,7 +5082,7 @@ unicode = 00E4;
 },
 {
 glyphname = agrave;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5087,7 +5091,7 @@ name = a;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 127, 0}";
+transform = "{1, 0, 0, 1, 175, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5099,7 +5103,7 @@ unicode = 00E0;
 },
 {
 glyphname = ainvertedbreve;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5108,7 +5112,7 @@ name = a;
 },
 {
 name = uni0311;
-transform = "{1, 0, 0, 1, 115, 0}";
+transform = "{1, 0, 0, 1, 163, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5120,7 +5124,7 @@ unicode = 0203;
 },
 {
 glyphname = amacron;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5129,7 +5133,7 @@ name = a;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 62, 0}";
+transform = "{1, 0, 0, 1, 110, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5162,7 +5166,7 @@ unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5171,7 +5175,7 @@ name = a;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 137, 0}";
+transform = "{1, 0, 0, 1, 185, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5183,7 +5187,7 @@ unicode = 00E5;
 },
 {
 glyphname = aringacute;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5192,11 +5196,11 @@ name = a;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 172, 0}";
+transform = "{1, 0, 0, 1, 220, 0}";
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 137, 0}";
+transform = "{1, 0, 0, 1, 185, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -5208,7 +5212,7 @@ unicode = 01FB;
 },
 {
 glyphname = atilde;
-lastChange = "2015-10-20 20:20:34 +0000";
+lastChange = "2015-11-01 09:00:59 +0000";
 layers = (
 {
 components = (
@@ -5217,7 +5221,7 @@ name = a;
 },
 {
 name = tilde;
-transform = "{1, 0, 0, 1, 55, 0}";
+transform = "{1, 0, 0, 1, 103, 0}";
 }
 );
 layerId = "4E0115BC-0505-415D-92F6-F9BAC1931694";
@@ -22074,8 +22078,8 @@ Y = -72;
 Y.sc = -47;
 quoteright = -71;
 quotesingle = -70;
-six.onum = -11;
 six = -11;
+six.onum = -11;
 v = -35;
 w = -40;
 w.alt = -28;
@@ -22247,20 +22251,20 @@ trademark = 6;
 };
 degree = {
 five.onum = -16;
-four.onum = -76;
 four = -53;
+four.onum = -76;
 nine.onum = -15;
 };
 divide = {
 four.onum = -12;
 nine = -11;
-one.onum = -15;
 one = -16;
-seven.onum = -44;
+one.onum = -15;
 seven = -33;
+seven.onum = -44;
 three.onum = -33;
-two.onum = -18;
 two = -10;
+two.onum = -18;
 };
 e = {
 A = -8;
@@ -22303,8 +22307,8 @@ eng = {
 j = 23;
 };
 equal = {
-seven.onum = -30;
 seven = -21;
+seven.onum = -30;
 three.onum = -22;
 };
 eth = {
@@ -22394,6 +22398,9 @@ minus = -12;
 periodcentered = -11;
 plus = -21;
 };
+four = {
+slash = -10;
+};
 four.onum = {
 T = -46;
 U = -12;
@@ -22405,9 +22412,6 @@ backslash = -32;
 degree = -14;
 divide = -13;
 plus = -12;
-};
-four = {
-slash = -10;
 };
 g = {
 W = -51;
@@ -22545,8 +22549,8 @@ Y.sc = -29;
 Z.sc = -8;
 quoteright = -27;
 quotesingle = -19;
-seven.onum = -41;
 seven = -23;
+seven.onum = -41;
 three.onum = -32;
 v = -10;
 w = -11;
@@ -22733,13 +22737,13 @@ y = -11;
 y.alt = -15;
 };
 minus = {
-seven.onum = -35;
 seven = -23;
+seven.onum = -35;
 three.onum = -27;
 };
 multiply = {
-seven.onum = -28;
 seven = -20;
+seven.onum = -28;
 three.onum = -20;
 };
 n = {
@@ -22773,6 +22777,11 @@ w.alt = -9;
 y = -11;
 y.alt = -14;
 };
+nine = {
+backslash = -11;
+parenright = -11;
+slash = -17;
+};
 nine.onum = {
 T = -67;
 V = -45;
@@ -22783,11 +22792,6 @@ backslash = -45;
 degree = -42;
 quotesingle = -24;
 seven.onum = -12;
-};
-nine = {
-backslash = -11;
-parenright = -11;
-slash = -17;
 };
 o = {
 A = -13;
@@ -22830,6 +22834,16 @@ z = -9;
 oe = {
 space = -21;
 };
+one = {
+backslash = -14;
+degree = -13;
+divide = -22;
+four = -13;
+periodcentered = -14;
+plus = -20;
+quotesingle = -14;
+zero = -10;
+};
 one.onum = {
 AE = 27;
 O = -14;
@@ -22850,16 +22864,6 @@ periodcentered = -16;
 plus = -21;
 quotesingle = -20;
 };
-one = {
-backslash = -14;
-degree = -13;
-divide = -22;
-four = -13;
-periodcentered = -14;
-plus = -20;
-quotesingle = -14;
-zero = -10;
-};
 parenleft = {
 AE = 13;
 O = -19;
@@ -22874,10 +22878,10 @@ itilde = 16;
 o = -16;
 parenleft = -10;
 schwa = -11;
-six.onum = -10;
 six = -10;
-zero.onum = -20;
+six.onum = -10;
 zero = -14;
+zero.onum = -20;
 };
 parenright = {
 parenright = -10;
@@ -22900,8 +22904,8 @@ quoteleft = -100;
 quoteright = -100;
 quotesingle = -100;
 seven.onum = -17;
-six.onum = -10;
 six = -10;
+six.onum = -10;
 t = -8;
 t.alt = -8;
 v = -38;
@@ -22913,18 +22917,18 @@ zero = -16;
 };
 periodcentered = {
 l = -40;
-seven.onum = -35;
 seven = -28;
+seven.onum = -35;
 three.onum = -24;
 };
 plus = {
 four.onum = -18;
 one = -14;
-seven.onum = -30;
 seven = -33;
+seven.onum = -30;
 three.onum = -21;
-two.onum = -16;
 two = -10;
+two.onum = -16;
 };
 q = {
 W = -51;
@@ -23034,8 +23038,8 @@ a = -9;
 at = -14;
 eth = -16;
 five.onum = -13;
-four.onum = -64;
 four = -39;
+four.onum = -64;
 itilde = 16;
 o = -10;
 period = -100;
@@ -23104,23 +23108,6 @@ J.sc = -44;
 eth = -8;
 itilde = 15;
 };
-seven.onum = {
-A = -40;
-AE = -50;
-J = -55;
-divide = -27;
-equal = -19;
-five.onum = -18;
-four.onum = -51;
-hyphen = -29;
-minus = -24;
-multiply = -14;
-nine.onum = -10;
-period = -65;
-periodcentered = -22;
-plus = -14;
-slash = -53;
-};
 seven = {
 backslash = 10;
 cent = -35;
@@ -23142,6 +23129,23 @@ zero = -14;
 seven.numerator = {
 fraction = -59;
 };
+seven.onum = {
+A = -40;
+AE = -50;
+J = -55;
+divide = -27;
+equal = -19;
+five.onum = -18;
+four.onum = -51;
+hyphen = -29;
+minus = -24;
+multiply = -14;
+nine.onum = -10;
+period = -65;
+periodcentered = -22;
+plus = -14;
+slash = -53;
+};
 six.onum = {
 A = -22;
 AE = -10;
@@ -23162,26 +23166,26 @@ S.sc = -14;
 Schwa = -19;
 a = -14;
 a.alt2 = -14;
-eight.onum = -12;
 eight = -12;
+eight.onum = -12;
 eth = -19;
-five.onum = -20;
 five = -14;
-four.onum = -70;
+five.onum = -20;
 four = -65;
+four.onum = -70;
 imacron = 29;
 itilde = 10;
 n = -12;
 o = -14;
 s = -13;
 schwa = -13;
-six.onum = -17;
 six = -17;
+six.onum = -17;
 slash = -277;
 three.onum = -11;
 u = -10;
-zero.onum = -40;
 zero = -20;
+zero.onum = -40;
 };
 space = {
 A = -27;
@@ -23273,6 +23277,9 @@ backslash = -33;
 degree = -27;
 quotesingle = -11;
 };
+two = {
+four = -13;
+};
 two.onum = {
 T = -53;
 V = -30;
@@ -23281,9 +23288,6 @@ W.alt = -11;
 Y = -46;
 backslash = -27;
 degree = -18;
-};
-two = {
-four = -13;
 };
 u = {
 Eth = -11;
@@ -23472,6 +23476,13 @@ hyphen = -13;
 o = -9;
 schwa = -6;
 };
+zero = {
+backslash = -20;
+degree = -11;
+parenright = -15;
+seven = -15;
+slash = -19;
+};
 zero.onum = {
 A = -23;
 AE = -12;
@@ -23486,13 +23497,6 @@ parenright = -14;
 quotesingle = -11;
 seven.onum = -10;
 slash = -12;
-};
-zero = {
-backslash = -20;
-degree = -11;
-parenright = -15;
-seven = -15;
-slash = -19;
 };
 };
 };
