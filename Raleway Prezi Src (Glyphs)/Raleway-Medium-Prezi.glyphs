@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"r/r.001 e"
+);
 classes = (
 {
 automatic = 1;
@@ -24574,6 +24577,50 @@ width = 352;
 }
 );
 unicode = 0163;
+},
+{
+glyphname = r.001;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{91, 0}";
+},
+{
+name = top;
+position = "{182, 522}";
+}
+);
+layerId = "BB6A41DF-B2B0-47BB-BB25-47FFE7E0E8E0";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"347 525 LINE",
+"340 526 OFFCURVE",
+"331 526 OFFCURVE",
+"318 526 CURVE",
+"252 521 OFFCURVE",
+"189 473 OFFCURVE",
+"153 401 CURVE",
+"153 522 LINE",
+"71 522 LINE",
+"71 0 LINE",
+"159 0 LINE",
+"159 322 LINE",
+"187 398 OFFCURVE",
+"259 443 OFFCURVE",
+"347 445 CURVE"
+);
+}
+);
+width = 363;
+}
+);
+leftKerningGroup = eng;
+rightKerningGroup = r;
 },
 {
 glyphname = W.sc.alt;
