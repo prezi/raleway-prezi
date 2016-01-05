@@ -1,14 +1,13 @@
 First of all, we would say open source thanks.
 Prezi is built on and with the aid of several open source projects and we would like to thank the people and projects for helping us achieve our goals. We use a lot of beautiful fonts at Prezi, so we'd like to thank the designers for the use of these great fonts. (https://prezi.com/developers/open-source-thanks/)
 
-For our brand we choose as a brand typeface beautiful Raleway, Pablo Impallari's open sourec font, and because we have few specific 
+For our brand we choose as a brand typeface beautiful Raleway, Pablo Impallari's open sourec font, and because we have few specific needs, we upgrade, extend and fit the original Raleway to our requirements.
 
 
 Raleway Prezi
 =======
 
-The **Raleway Prezi** – our branded typeface, upgraded, extended and fitted to our requirements. 
-
+The **Raleway Prezi** – our branded typeface. 
 
 **Folder structure:**
 
@@ -19,7 +18,7 @@ The **Raleway Prezi** – our branded typeface, upgraded, extended and fitted to
 
 ---
 
-Upgraded, extended and fitted – what is it means? So, we:
+Upgraded, extended and fitted to our requirements – what is this means? So, we:
 - changed name from Raleway to Raleway Prezi (with style names)
 - changed diacritical marks and punctuation  (we make them bigger,more readable)
 - changed deafult a, d, j, l, q, u, w to alternate characters
@@ -39,7 +38,6 @@ http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
 ---
 
 Installation and troubleshooting (this is mostly for usage in print and its happen after when you download and install the newest version of the font):
-
 * Font cache problems: 
 http://www.glyphsapp.com/tutorials/eliminating-font-cache-problems
 * Testing fonts in Adobe Apps: 
