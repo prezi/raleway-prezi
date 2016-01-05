@@ -9,8 +9,9 @@ Raleway Prezi
 
 The **Raleway Prezi** – our branded typeface. 
 
- **Folder structure:**
- **InDesign** folder: InDesign file for creating cross check PDF
+**Folder structure:**
+ 
+**InDesign** folder: InDesign file for creating cross check PDF
 
 **OTF (for Print)** folder: generated OTF font files
 
