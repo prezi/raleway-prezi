@@ -6,32 +6,24 @@ Prezi is built on and with the aid of several open source projects and we would 
 Raleway Prezi
 =======
 
-The Raleway Prezi – our branded typeface, upgraded, extended and fitted to our requirements. For more information check README.md please.
+The Raleway Prezi – our branded typeface, upgraded, extended and fitted to our requirements. 
 
-We use in Prezi Brand only three styles: Raleway Prezi Regular, Raleway Prezi SemiBold and Raleway Prezi Heavy.
 
 Folder structure:
 
-Working Glyphsapp files – In main directory
-Archive of the original font – *Raleway Original* folder
-New Raleway Prezi font family for PRINT – *OUT Print*
-New Raleway Prezi font family for WEB – *OUT Web*
+Source, working Glyphs files are in – Raleway Prezi Src (Glyphs) directory
+Archive of the original font in – *Raleway Original* folder
 
-PDF files for check – *OUT PDF*
 InDesign file for creating cross check PDF – *InDesign*
 
 Upgraded, extended and fitted – what that means?
+– changed diacritical marks and punctuation  (we mAKE THEM BIGGER,MORE READABLE)
 – changed name from Raleway to Raleway Prezi (with style names)
 – changed a to alternate a / stylistic set 01 / ss01
 – changed w to alternate w / stylistic set 02 / ss02
 – changed default numbers style from old numerals to default set / .onum
 
-Extended wit Cyrillic characters:
-– Heavy: in progress
-– SemiBold: notyet
-– Regular: not yet
-
-—
+—---
 
 Original Font Source
 http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
