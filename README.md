@@ -9,7 +9,7 @@ For our brand we choose as a brand typeface beautiful Raleway, Pablo Impallari's
 
 The **Raleway Prezi** – our branded typeface. 
 
-**Folder structure:**
+###Folder structure:
  
 **InDesign** folder: InDesign file for creating cross check PDF
 
@@ -40,7 +40,8 @@ http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
 
 ---
 
-Installation and troubleshooting (this is mostly for usage in print and its happen after when you download and install the newest version of the font):
+###Installation and troubleshooting
+
 * Font cache problems: 
 http://www.glyphsapp.com/tutorials/eliminating-font-cache-problems
 * Testing fonts in Adobe Apps: 
