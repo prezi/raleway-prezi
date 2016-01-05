@@ -10,7 +10,6 @@ For our brand we choose as a brand typeface beautiful Raleway, Pablo Impallari's
 The **Raleway Prezi** – our branded typeface.
 
 Upgraded, extended and fitted to our requirements – what is this means? So, we:
-- changed name from Raleway to Raleway Prezi (with style names)
 - changed diacritical marks and punctuation  (we make them bigger,more readable)
 - changed deafult a, d, j, l, q, u, w to alternate characters
 - changed form of the numbers
