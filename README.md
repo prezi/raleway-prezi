@@ -33,7 +33,7 @@ Upgraded, extended and fitted to our requirements – what is this means? So, we
 
 ---
 
-You can find WOFF files in *WOFF* branch.
+You can find WOFF files in [**WOFF**] (https://github.com/prezi/raleway-prezi/tree/WOFF) branch.
 
 ---
 
