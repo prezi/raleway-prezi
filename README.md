@@ -34,7 +34,11 @@ Upgraded, extended and fitted to our requirements – what is this means? So, we
 
 ---
 
-**Original Font Source**: http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
+You can find WOFF files in branch:
+
+---
+
+**Original Raleway Font Source**: http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
 
 ---
 
