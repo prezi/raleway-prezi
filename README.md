@@ -1,7 +1,7 @@
 First of all, we would say open source thanks.
 Prezi is built on and with the aid of several open source projects and we would like to thank the people and projects for helping us achieve our goals. We use a lot of beautiful fonts at Prezi, so we'd like to thank the designers for the use of these great fonts. (https://prezi.com/developers/open-source-thanks/)
 
-For our brand we choose as a brand typeface beautiful Raleway, Pablo Impallari's open sourec font, and because we have few specific needs, we upgrade, extend and fit the original Raleway to our requirements.
+For our brand we choose as a brand typeface beautiful Raleway, Pablo Impallari's open source font, and because we have few specific needs (succesfull readabilty), we upgrade, extend and fit the original Raleway to our requirements.
 
 
 #Raleway Prezi
