@@ -7,19 +7,7 @@ For our brand we choose as a brand typeface beautiful Raleway, Pablo Impallari's
 #Raleway Prezi
 
 
-The **Raleway Prezi** – our branded typeface. 
-
-###Folder structure:
- 
-**InDesign** folder: InDesign file for creating cross check PDF
-
-**OTF (for Print)** folder: generated OTF font files
-
-**Raleway Original** folder: archive of the original Raleway font
-
-**Raleway Prezi Src (Glyphs)** folder: source, working Glyphs files
-
----
+The **Raleway Prezi** – our branded typeface.
 
 Upgraded, extended and fitted to our requirements – what is this means? So, we:
 - changed name from Raleway to Raleway Prezi (with style names)
@@ -32,6 +20,17 @@ Upgraded, extended and fitted to our requirements – what is this means? So, we
 - created small caps with diacritical marks
 - changed default zero to slashed (dotted) zero
 - removing ligatures
+
+
+###Folder structure:
+ 
+**InDesign** folder: InDesign file for creating cross check PDF
+
+**OTF (for Print)** folder: generated OTF font files
+
+**Raleway Original** folder: archive of the original Raleway font
+
+**Raleway Prezi Src (Glyphs)** folder: source, working Glyphs files
 
 ---
 
