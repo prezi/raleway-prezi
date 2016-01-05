@@ -32,11 +32,9 @@ http://www.impallari.com/projects/overview/matt-mcinerneys-raleway-family
 
 Installation and troubleshooting (this is mostly for usage in print and its happen after when you download and install the newest version of the font):
 
-Font cache problems: 
+* Font cache problems: 
 http://www.glyphsapp.com/tutorials/eliminating-font-cache-problems
-
-Testing fonts in Adobe Apps: 
+* Testing fonts in Adobe Apps: 
 http://www.glyphsapp.com/tutorials/testing-your-fonts-in-adobe-apps
-
-Ralph Herrmann’s workflow for testing new typeface:
+*Ralph Herrmann’s workflow for testing new typeface:
 http://opentype.info/blog/2012/02/18/why-i-switched-from-fontlab-to-glyphs/
