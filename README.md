@@ -12,14 +12,13 @@ The **Raleway Prezi** – our branded typeface, upgraded, extended and fitted to
 
 **Folder structure:**
 
-Source, working Glyphs files are in – **Raleway Prezi Src (Glyphs)** folder
-Archive of the original font in – **Raleway Original** folder
-
-InDesign file for creating cross check PDF – *InDesign*
+**Raleway Prezi Src (Glyphs)** folder: source, working Glyphs files 
+**Raleway Original** folder: archive of the original Raleway font 
+**InDesign** folder: InDesign file for creating cross check PDF 
 
 Upgraded, extended and fitted – what is it means? So:
--changed diacritical marks and punctuation  (we make them bigger,more readable)
--changed name from Raleway to Raleway Prezi (with style names)
+- changed diacritical marks and punctuation  (we make them bigger,more readable)
+- changed name from Raleway to Raleway Prezi (with style names)
 -changed a to alternate a / stylistic set 01 / ss01
 -changed w to alternate w / stylistic set 02 / ss02
 -changed default numbers style from old numerals to default set / .onum
