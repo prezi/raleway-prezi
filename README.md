@@ -12,16 +12,24 @@ The **Raleway Prezi** – our branded typeface, upgraded, extended and fitted to
 
 **Folder structure:**
 
-**Raleway Prezi Src (Glyphs)** folder: source, working Glyphs files
+**InDesign** folder: InDesign file for creating cross check PDF
+**OTF (for Print)** folder: generated OTF font files
 **Raleway Original** folder: archive of the original Raleway font
-**InDesign** folder: InDesign file for creating cross check PDF 
+**Raleway Prezi Src (Glyphs)** folder: source, working Glyphs files.
 
-Upgraded, extended and fitted – what is it means? So:
-- changed diacritical marks and punctuation  (we make them bigger,more readable)
+---
+
+Upgraded, extended and fitted – what is it means? So, we:
 - changed name from Raleway to Raleway Prezi (with style names)
-- changed a to alternate a / stylistic set 01 / ss01
-- changed w to alternate w / stylistic set 02 / ss02
+- changed diacritical marks and punctuation  (we make them bigger,more readable)
+- changed deafult a, d, j, l, q, u, w to alternate characters
+- changed form of the numbers
 - changed default numbers style from old numerals to default set / .onum
+- extended with arrows
+- extended with uni2318 (Apple Command) character
+- created small caps with diacritical marks
+- changed default zero to slashed (dotted) zero
+- removing ligatures
 
 ---
 
